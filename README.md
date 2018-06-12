@@ -1,4 +1,4 @@
-This is a list of practice questions on topics covered in a course on stochastic processes
+This is a list of practice questions and exam questions on topics covered in a course on stochastic processes
 
 Brownian Motion
 ================================
